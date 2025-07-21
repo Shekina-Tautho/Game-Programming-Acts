@@ -23,8 +23,3 @@ MemoryCaptures/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Exclude large model files for now
-*.fbx
-*.blend
-*.obj
